@@ -34,6 +34,8 @@ body {
   border: var(--border);
 }
 
+/* -----------------------Home page------------------- */
+
 .container {
   max-width: 90%;
   margin: 0 auto;
@@ -236,6 +238,7 @@ a {
 .project-card p {
   padding: 5px 25px 15px 15px;
   text-align: justify;
+  font-family: "Segoe UI";
 }
 
 .lucide-arrow-down-right {
@@ -327,6 +330,8 @@ textarea:focus {
 .btn:hover {
   transform: scale(1.02);
 }
+
+/* ----------------footer---------------- */
 
 footer {
   display: flex;
